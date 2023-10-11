@@ -1,0 +1,9 @@
+h1 {margin: 0; color: purple;}
+        body {padding-top: 15px; background-color: bisque;}
+.profile-pic {width: 110px; border-radius: 90px; 
+    height: 110px; object-fit: cover; margin-right: 15px;}
+hr {width: 30%; text-align: center; border-style: none; 
+    color: purple; border-top-style: dotted;}
+.profile-container {display: flex; }
+.school-list {list-style-type: lower-alpha;}
+   .hubbies-list {list-style-type: lower-roman; }
